@@ -1,24 +1,3 @@
----
-license: cc-by-nc-4.0
-pretty_name: "Texas Oil & Gas Production and County Mineral Appraisal Summary (1993–2026)"
-language:
-- en
-tags:
-- oil-and-gas
-- texas
-- energy
-- railroad-commission-of-texas
-- mineral-rights
-- open-data
-size_categories:
-- n<1K
-configs:
-- config_name: counties
-  data_files: texas_counties_1993_2026.csv
-- config_name: operators
-  data_files: texas_top_100_operators.csv
----
-
 # Texas Oil & Gas Production and County Mineral Appraisal Summary (1993–2026)
 
 Oil and gas production for all 254 Texas counties from January 1993 through August 2026, and the 100 largest Texas operators of
