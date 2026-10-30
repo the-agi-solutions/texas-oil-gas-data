@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Texas Oil & Gas Production and County Mineral Appraisal Summary (1993–2026)"
+authors:
+  - name: "Royalty Clerk"
+    website: "https://royaltyclerk.com"
+version: "2026-08"
+date-released: "2026-10-30"
+license: CC-BY-NC-4.0
+url: "https://royaltyclerk.com/texas"
+keywords:
+  - Texas
+  - oil and gas production
+  - Railroad Commission of Texas
+  - mineral appraisal rolls

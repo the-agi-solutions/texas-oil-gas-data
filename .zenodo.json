@@ -1,0 +1,184 @@
+{
+  "upload_type": "dataset",
+  "title": "Texas Oil & Gas Production and County Mineral Appraisal Summary (1993–2026)",
+  "creators": [
+    {
+      "name": "Royalty Clerk",
+      "affiliation": "AGI Solutions LLC"
+    }
+  ],
+  "description": "<p>Oil and gas production for all 254 Texas counties from January 1993 through August 2026, and the 100 largest Texas operators of the latest 12 months, compiled from 65.2 million monthly lease production reports filed with the Railroad Commission of Texas and the mineral appraisal rolls of 143 Texas counties.</p><p><b>texas_counties_1993_2026.csv</b>: per county, cumulative oil (bbl) and gas (mcf) since 1993, peak year, the last 12 months, producing leases and mineral roll accounts. <b>texas_top_100_operators.csv</b>: per operator, producing leases, last-12-month oil and gas, oil-equivalent, share of Texas and the share of gas vented or flared. The README explains RRC lease numbers, Form PR disposition codes and county mineral roll decimals.</p><p>Each row links to its source page on <a href=\"https://royaltyclerk.com/texas\">Royalty Clerk's Texas oil and gas pages</a>, which carry the monthly detail.</p><p>Largest producing counties (12 months to August 2026):</p><ul><li><a href=\"https://royaltyclerk.com/texas/counties/midland-county-tx\">Midland County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/martin-county-tx\">Martin County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/reeves-county-tx\">Reeves County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/loving-county-tx\">Loving County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/webb-county-tx\">Webb County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/upton-county-tx\">Upton County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/reagan-county-tx\">Reagan County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/howard-county-tx\">Howard County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/culberson-county-tx\">Culberson County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/karnes-county-tx\">Karnes County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/panola-county-tx\">Panola County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/glasscock-county-tx\">Glasscock County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/la-salle-county-tx\">La Salle County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/ward-county-tx\">Ward County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/de-witt-county-tx\">De Witt County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/andrews-county-tx\">Andrews County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/harrison-county-tx\">Harrison County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/dimmit-county-tx\">Dimmit County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/mcmullen-county-tx\">McMullen County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/san-augustine-county-tx\">San Augustine County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/live-oak-county-tx\">Live Oak County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/tarrant-county-tx\">Tarrant County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/winkler-county-tx\">Winkler County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/pecos-county-tx\">Pecos County</a></li><li><a href=\"https://royaltyclerk.com/texas/counties/yoakum-county-tx\">Yoakum County</a></li></ul><p>Largest operators (12 months to August 2026):</p><ul><li><a href=\"https://royaltyclerk.com/texas/operators/pioneer-natural-res-usa-inc-665748\">Pioneer Natural Res. USA, Inc.</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/diamondback-e-p-llc-217012\">Diamondback E&amp;P LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/eog-resources-inc-253162\">EOG Resources, Inc.</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/anadarko-e-p-onshore-llc-020528\">Anadarko E&amp;P Onshore LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/bpx-operating-company-085408\">BPX Operating Company</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/xto-energy-inc-945936\">XTO Energy Inc.</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/apache-corporation-027200\">Apache Corporation</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/chevron-u-s-a-inc-148113\">Chevron U. S. A. Inc.</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/burlington-resources-o-g-co-lp-109333\">Burlington Resources O &amp; G Co LP</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/cog-operating-llc-166150\">Cog Operating LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/permian-resources-operating-llc-100852\">Permian Resources Operating, LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/coterra-energy-operating-co-103285\">Coterra Energy Operating Co.</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/sm-energy-company-788997\">SM Energy Company</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/ovintiv-usa-inc-628658\">Ovintiv USA Inc.</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/oxyrock-operating-llc-102324\">Oxyrock Operating, LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/tgnr-east-texas-ii-llc-102211\">Tgnr East Texas II LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/caturus-energy-llc-103593\">Caturus Energy, LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/lewis-petro-properties-inc-499978\">Lewis Petro Properties, Inc.</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/civitas-permian-operating-llc-101577\">Civitas Permian Operating, LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/wpx-energy-permian-llc-942623\">WPX Energy Permian, LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/crescent-energy-operating-llc-103575\">Crescent Energy Operating, LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/marathon-oil-ef-llc-525398\">Marathon Oil Ef LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/continental-resources-inc-173777\">Continental Resources, Inc.</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/javelin-energy-partners-mgmt-llc-100351\">Javelin Energy Partners Mgmt LLC</a></li><li><a href=\"https://royaltyclerk.com/texas/operators/comstock-oil-gas-llc-170038\">Comstock Oil &amp; Gas, LLC</a></li></ul><p>Files licensed CC BY-NC 4.0. The license covers these files only; the rest of royaltyclerk.com stays under <a href=\"https://royaltyclerk.com/terms#data-license\">its terms</a>.</p>",
+  "access_right": "open",
+  "license": "cc-by-nc-4.0",
+  "publication_date": "2026-10-30",
+  "version": "2026-08",
+  "language": "eng",
+  "keywords": [
+    "Texas",
+    "oil and gas production",
+    "Railroad Commission of Texas",
+    "mineral rights",
+    "county appraisal rolls",
+    "royalties",
+    "energy statistics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://royaltyclerk.com/texas",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/midland-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/martin-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/reeves-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/loving-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/webb-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/upton-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/reagan-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/howard-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/culberson-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/karnes-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/panola-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/glasscock-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/la-salle-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/ward-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/de-witt-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/andrews-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/harrison-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/dimmit-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/mcmullen-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/san-augustine-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/live-oak-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/tarrant-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/winkler-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/pecos-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://royaltyclerk.com/texas/counties/yoakum-county-tx",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Data through August 2026. Production: Railroad Commission of Texas Production Data Query bulk file. Mineral rolls: county appraisal districts. Compiled by Royalty Clerk (https://royaltyclerk.com)."
+}
