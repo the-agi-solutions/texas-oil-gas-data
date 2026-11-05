@@ -7,6 +7,8 @@ the latest 12 months, compiled by [Royalty Clerk](https://royaltyclerk.com) from
 Data through **August 2026** (RRC production reports run about two months behind, and recent months still gain late reports).
 Built 2026-10-30.
 
+DOI: [10.5281/zenodo.23818209](https://doi.org/10.5281/zenodo.23818209) (this version, on Zenodo).
+
 ## Files
 
 | File | Rows | What |
@@ -292,4 +294,4 @@ RRC production reports and appraisal rolls are public records, available from th
 
 ## How to cite
 
-> Royalty Clerk (2026). *Texas Oil & Gas Production and County Mineral Appraisal Summary (1993–2026)* (data through August 2026). https://royaltyclerk.com/texas
+> Royalty Clerk (2026). *Texas Oil & Gas Production and County Mineral Appraisal Summary (1993–2026)* (version 2026-08, data through August 2026) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23818209
